@@ -15,7 +15,8 @@ Sua tarefa é implementar a função `conta_pares()` e analisar sua complexidade
 ### Questões para análise (não é necessário entregar)
 
 1. Escreva a função **T(n)** que conta o número exato de comparações (`% 2 == 0`) realizadas por `conta_pares()` em função de `n`.
-2. Se dobrarmos o valor de `n`, por qual fator aproximado o tempo de execução é multiplicado? 
+2. Se dobrarmos o valor de `n`, por qual fator aproximado o tempo de execução é multiplicado? Justifique sua resposta.
+
 ---
 
 ### Entrada
