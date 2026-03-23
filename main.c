@@ -14,6 +14,6 @@ int main() {
         for (int j = 0; j <= i; j++)
             scanf("%d", &mat[i][j]);
 
-    printf("%d\n", conta_pares(mat, n));
+    printf("%d\n", conta_pares(n, mat));
     return 0;
 }
