@@ -17,8 +17,6 @@ Sua tarefa é implementar a função `conta_pares()` e analisar sua complexidade
 1. Escreva a função **T(n)** que conta o número exato de comparações (`% 2 == 0`) realizadas por `conta_pares()` em função de `n`.
 2. Se dobrarmos o valor de `n`, por qual fator aproximado o tempo de execução é multiplicado? Justifique sua resposta.
 
----
-
 ### Entrada
 
 A primeira linha é composta por um inteiro `n` (1 ≤ n ≤ 100) que representa o número de linhas da matriz. As `n` linhas seguintes estão estruturadas de forma que a linha `i` (começando em 1) contém exatamente `i` inteiros, que são os elementos da triangular inferior da esquerda para a direita.
