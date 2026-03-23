@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int conta_pares(int mat[][100], int n) {
+int conta_pares(int n, int mat[][n]) {
     /* TODO: Implemente esta função.
      * Para verificar se um número é par, use a expressão (x % 2 == 0) */
 }
